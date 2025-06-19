@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static ActivityCache.removeDuplicatesByDate():ActivityCache.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GoalWidget.body.getter:Widget.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "WidgetGoalProgressIndicator(frame: CGRect(origin: .zero, size: CGSize(width: 400, height: 400))).renderToImage()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SetGoalViewController.viewWillAppear(_:):SetGoalViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HealthActivity.init(_:):HealthActivity.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SetGoalViewController.setup():SetGoalViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

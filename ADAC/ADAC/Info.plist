@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Allow Any Distance saves photos taken during your workout to your camera roll.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Find friends already using Any Distance and invite others. Your contacts will be securely encrypted and uploaded to our servers. This step is optional.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>presicav_hv.otf</string>
+		<string>presicav_bd.otf</string>
+		<string>presicav_rg.otf</string>
+		<string>NeueMaticCompressed-Regular.otf</string>
+		<string>jd_lcd_rounded.otf</string>
+		<string>nasalization-rg.otf</string>
+	</array>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.anydistance.anydistance</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Any Distance</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.codalabs.adac</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>anydistance</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.codalabs.adac</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>anydistanceathleticclub</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>reddit</string>
+		<string>com.nike.nikeplus-gps</string>
+		<string>whatsapp</string>
+		<string>twitter</string>
+		<string>twitch</string>
+		<string>pinterest</string>
+		<string>fb-messenger</string>
+		<string>fb</string>
+		<string>fitbit</string>
+		<string>strava</string>
+		<string>instagram-stories</string>
+		<string>instagram</string>
+		<string>twitter</string>
+		<string>snapchat</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>yourdomain.com</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
+				<false/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Any Distance uses the camera to take photos for your activity, and for augmented reality.</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Any Distance securely writes your Activity and wellness data from Apple Health. We can also read data from other apps synced to Apple Health. 
+
+Your data is yours, not ours. We will never sell your data nor store it anywhere else.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Any Distance securely writes your Activity and wellness data from Apple Health. We can also read data from other apps synced to Apple Health. 
+
+Your data is yours, not ours. We will never sell your data nor store it anywhere else.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow Any Distance to use your location to track a route for your activity. For the best accuracy, make sure &quot;Precise Location&quot; is turned on.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow Any Distance to use your location to track a route for your activity. For the best accuracy, make sure &quot;Precise Location&quot; is turned on.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Any Distance needs to use your microphone to capture a video.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Any Distance lets you pick a custom background image or video from your photo library. Tap &quot;Allow&quot; to allow this.</string>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
+	<key>NSSupportsSuddenTermination</key>
+	<false/>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Onboarding</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Onboarding</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Dark</string>
+</dict>
+</plist>

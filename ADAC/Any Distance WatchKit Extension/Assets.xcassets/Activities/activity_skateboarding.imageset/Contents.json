@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "glyph_skateboarding.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

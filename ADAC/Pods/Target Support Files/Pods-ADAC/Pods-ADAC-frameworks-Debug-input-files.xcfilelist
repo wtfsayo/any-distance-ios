@@ -1,0 +1,26 @@
+${PODS_ROOT}/Target Support Files/Pods-ADAC/Pods-ADAC-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Keys-framework/Keys.framework
+${BUILT_PRODUCTS_DIR}/BetterCodable/BetterCodable.framework
+${BUILT_PRODUCTS_DIR}/Cache/Cache.framework
+${BUILT_PRODUCTS_DIR}/FeedKit/FeedKit.framework
+${BUILT_PRODUCTS_DIR}/HCKalmanFilter/HCKalmanFilter.framework
+${BUILT_PRODUCTS_DIR}/MetalPetal/MetalPetal.framework
+${BUILT_PRODUCTS_DIR}/OAuthSwift/OAuthSwift.framework
+${BUILT_PRODUCTS_DIR}/Purchases/Purchases.framework
+${BUILT_PRODUCTS_DIR}/PurchasesCoreSwift/PurchasesCoreSwift.framework
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
+${BUILT_PRODUCTS_DIR}/SCNLine/SCNLine.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/ScalingCarousel/ScalingCarousel.framework
+${BUILT_PRODUCTS_DIR}/Surge/Surge.framework
+${BUILT_PRODUCTS_DIR}/SwiftRichString/SwiftRichString.framework
+${BUILT_PRODUCTS_DIR}/UICountingLabel/UICountingLabel.framework
+${BUILT_PRODUCTS_DIR}/UIImageColors/UIImageColors.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/ffmpegkit.framework/ffmpegkit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libavcodec.framework/libavcodec
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libavdevice.framework/libavdevice
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libavfilter.framework/libavfilter
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libavformat.framework/libavformat
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libavutil.framework/libavutil
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libswresample.framework/libswresample
+${PODS_XCFRAMEWORKS_BUILD_DIR}/ffmpeg-kit-ios-min/libswscale.framework/libswscale

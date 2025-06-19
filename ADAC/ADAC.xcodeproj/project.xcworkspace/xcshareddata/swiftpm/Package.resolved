@@ -1,0 +1,150 @@
+{
+  "originHash" : "d7408285dccad42a7fb53e57572bb4d82714ca6329a52859769e7edb5647f1e3",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+        "version" : "5.6.2"
+      }
+    },
+    {
+      "identity" : "fitfileparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/roznet/FitFileParser",
+      "state" : {
+        "revision" : "38a855a37e07e4a07ef1867907a98a322efec63f",
+        "version" : "1.4.8"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6299daec1d74be12164fec090faf9ed14d0da9d6"
+      }
+    },
+    {
+      "identity" : "mixpanel-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mixpanel/mixpanel-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "770953c8d6bddd03afc4b85491800cb60bd52f00"
+      }
+    },
+    {
+      "identity" : "multicastdelegate",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/v-grigoriev/MulticastDelegate.git",
+      "state" : {
+        "revision" : "d650db9f294d2ebeab9e48e1825b6a16af860a62",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "onesignal-xcframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-XCFramework",
+      "state" : {
+        "revision" : "5016b3aee6e08e9a8e55b2197e60a40ee3d3ebe5",
+        "version" : "3.11.2"
+      }
+    },
+    {
+      "identity" : "reachability.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ashleymills/Reachability.swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a81b7367f2c46875f29577e03a60c39cdfad0c8d"
+      }
+    },
+    {
+      "identity" : "scnrecorder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gorastudio/SCNRecorder",
+      "state" : {
+        "branch" : "master",
+        "revision" : "2f618d36115600ffdea8369045695ad51c1f0264"
+      }
+    },
+    {
+      "identity" : "sentry-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getsentry/sentry-cocoa.git",
+      "state" : {
+        "revision" : "79a8777697f1ff5709bbc9cb53b86f7ff80fcf54",
+        "version" : "7.27.0"
+      }
+    },
+    {
+      "identity" : "stringmetric.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/autozimu/StringMetric.swift.git",
+      "state" : {
+        "revision" : "ac08419f609e53636bd2d5d140d95d1d14960d6a",
+        "version" : "0.3.2"
+      }
+    },
+    {
+      "identity" : "surge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jounce/Surge.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ac638794d4b02377e3628c1c8b1e07c2a15f1d52"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "121c146fe591b1320238d054ae35c81ffa45f45a",
+        "version" : "0.12.0"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a37392e4f4d37b38fdb091d4b854939c778f2569"
+      }
+    },
+    {
+      "identity" : "swiftygif",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kirualex/SwiftyGif.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "31691f301258550147dada5b86d5f7dc396e84ec"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "revision" : "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "videoio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MetalPetal/VideoIO",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1623b3d597d8ae987979ce8ac7b1ce0d085d2855"
+      }
+    }
+  ],
+  "version" : 3
+}
