@@ -1,5 +1,7 @@
 # 🏃 Any Distance
 
+![Any Distance cover image](README/ad-cover.jpg)
+
 This is the open source version of [Any Distance](https://apps.apple.com/us/app/any-distance-running-tracker/id1545233932), a [2023 Apple Design Award winner](https://www.apple.com/newsroom/2023/06/apple-announces-winners-of-the-2023-apple-design-awards/) in Visuals & Graphics.
 
 Read the announcement blog post [here](https://kuntz.io/blog/any-distance-oss.html).
